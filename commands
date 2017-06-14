@@ -1,0 +1,21 @@
+export PYTHONPATH=${PYTHONPATH}:/home/mehmet/Desktop/pynaoqi-python2.7-2.1.2.17-linux64
+
+sudo systemctl daemon-reload;sudo systemctl enable var-run-sdp.path;sudo systemctl enable var-run-sdp.service;sudo systemctl start var-run-sdp.path;sudo usermod -aG bluetooth mehmet;newgrp bluetooth
+
+
+
+poster
+	cumartesi
+
+video 
+	persembe
+	hocaya
+	geribildirim
+
+rapor 
+	bu gece eskiden neleri gecirecegiz
+	yarin raporu bitirip hocaya yollayalim.
+	cumartesi - 
+	
+
+
